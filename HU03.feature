@@ -1,5 +1,5 @@
 Feature: Como cliente quiero registrar mis producto en mi cuenta para comenzar solicitar el servicio.    
-	Scenario: E01 El cliente registra los datos de su producto correctamente. 
+	Scenario: E01 El cliente registra los datos de su producto correctamente.
 	CA01: 
 		Dado que he iniciado sesión en mi cuenta, 
 		Cuando seleccione la opción “Order Request” y "Make an Order" en el menú superior, 
